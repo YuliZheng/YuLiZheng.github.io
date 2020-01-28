@@ -1,0 +1,17 @@
+# jemdoc: nofooter
+# jemdoc: menu{MENU}{index.html}
+= Yuli Zheng
+
+~~~
+{}{img_left}{yulizheng.jpg}{alt text}{}{326.4px}{}
+Yuli Zheng \n
+Undergraduate Student \n 
+University of Science and Technology of China \n
+[\cv.pdf CV]
+~~~
+
+== Research Interests 
+- Theoretical Machine Learning
+- Data Mining
+- Deep Learning 
+

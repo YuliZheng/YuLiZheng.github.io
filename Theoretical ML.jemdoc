@@ -1,0 +1,11 @@
+# jemdoc: nofooter
+# jemdoc: menu{MENU}{publication.html}
+= reading notes
+
+- 1. Universal Approximation
+-- [1.1.html Universal approximation property of single layer networks (by Hornik)] \n
+Hornik et al., 1989
+-- [1.2.html Universal approximation of single layer network (by Cybenko)] \n
+Cybenko, 1992
+-- [1.3.html One Layer Network Could Be Concise (Barron)] \n
+Barron, 1993
