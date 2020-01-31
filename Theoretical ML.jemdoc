@@ -1,6 +1,7 @@
 # jemdoc: nofooter
 # jemdoc: menu{MENU}{publication.html}
 = reading notes
+This page contains my reading notes of the proofs of some papers.
 
 - 1. Universal Approximation
 -- [1.1.html Universal approximation property of single layer networks (by Hornik)] \n
