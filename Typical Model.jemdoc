@@ -8,3 +8,5 @@ This page contains my summary of typical machine learning models in less than *5
 -- [SupportVectorMachine.html Support Vector Machine]
 -- [kNearestNeighbor.html k Nearest Neighbor]
 -- [BayesAlgorithm.html Bayes Algorithm]
+-- [DecisionTree.html Decision Tree]
+-- [LogisticRegression.html Logistic Regression]
