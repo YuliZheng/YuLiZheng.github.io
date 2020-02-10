@@ -11,3 +11,9 @@ This page contains my summary of typical machine learning models in less than *5
 -- [DecisionTree.html Decision Tree]
 -- [LogisticRegression.html Logistic Regression]
 -- [MaximumEntropy.html Maximum Entropy]
+
+- Boost
+-- [AdaBoost.html Adaboost]
+
+- Concept
+-- [VCDimension.html VC Dimension]
