@@ -15,5 +15,8 @@ This page contains my summary of typical machine learning models in less than *5
 - Boost
 -- [AdaBoost.html Adaboost]
 
+- Algorithm
+-- [ExpectationMaximizeAlgorithm.html Expectation Maximize Algorithm]
+
 - Concept
 -- [VCDimension.html VC Dimension]
